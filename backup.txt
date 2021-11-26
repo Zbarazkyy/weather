@@ -1,0 +1,22 @@
+2021-11-25T17:46:34.688249 : pavel : 
+2021-11-25T17:46:46.336709 : pavel : 
+2021-11-25T17:46:54.066071 : pavel : 
+2021-11-25T17:49:24.169657 : pavel : 6
+2021-11-25T17:49:49.916091 : pavel : 6
+2021-11-25T17:49:58.444631 : pavel : 2
+Time - 2021-11-25T17:52:08.440319 : User - pavel : Temp - 2
+Time - 2021-11-25T17:52:10.917598 : User - pavel : Temp - 2
+Time - 2021-11-25T17:52:18.088516 : User - pavel : Temp - 4
+Time - 2021-11-25T17:52:27.724598 : User - pavel : Temp - 6
+Time - 2021-11-25T18:01:38.458694 : User - pavel : Temp - 5
+Time - 2021-11-25T18:01:54.361663 : User - pavel : Temp - 3
+Time - 2021-11-25T18:01:55.899638 : User - pavel : Temp - 3
+Time - 2021-11-25T18:01:57.313353 : User - pavel : Temp - 3
+Time - 2021-11-25T18:04:20.419202 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:21.198385 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:22.298779 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:23.261790 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:24.069406 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:24.987675 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:25.698138 :  User - pavel :  City -  Lviv :  Temp - 3
+Time - 2021-11-25T18:04:26.072735 :  User - pavel :  City -  Lviv :  Temp - 3

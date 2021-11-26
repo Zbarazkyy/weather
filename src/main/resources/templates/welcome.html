@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html xmlns:th="https://www.thymeleaf.org">
+<head>
+    <title>Welcome</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<h1>Welcome to weather_app</h1>
+<h2>You can register</h2>
+<form th:action="@{/register}" th:object="${requestDto}" method="post">
+    <p>Login: <input type="text" th:field="*{name}"/></p>
+    <p>Password: <input type="text" th:field="*{password}"/></p>
+    <p><input type="submit" value="Submit"/></p>
+</form>
+<h2>or log in to the application if you are registered</h2>
+<form action="/login" method="get">
+    <input type="button" value="to login">
+</form>
+</body>
+</html>
